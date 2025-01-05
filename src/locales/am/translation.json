@@ -101,11 +101,11 @@
       "email": "ኢሜል አድራሻ",
       "password": "የሚስጥር ቃል"
     },
-    "forgotPassword": "የሚስጥር ቃል እርስ ታረዱ?",
+    "forgotPassword": "የይለፍ ቃል ረስተዋል?",
     "loginButton": "ግባ",
     "error": "እባኮትን ሁሉንም የሚያስፈልጉትን መረጃዎች ያቅርቡ",
-    "success": "ግባ ተሳክቷል",
-    "failure": "ግባ አልተሳካም። እባኮትን መረጃዎችዎን ያረጋግጡ"
+    "success": "መግባት ተሳክቷል",
+    "failure": "መግባት አልተሳካም። እባኮትን መረጃዎችዎን ያረጋግጡ"
   },
 
   "forgotPassword": {

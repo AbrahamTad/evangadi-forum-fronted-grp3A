@@ -1,0 +1,96 @@
+.navbar {
+  box-shadow: 0 2px 5px rgba(0, 0, 0, 0.1);
+  padding: 10px 20px;
+  z-index: 100;
+}
+
+.logo {
+  width: 150px;
+}
+
+.navLink {
+  margin-left: 20px;
+  text-decoration: none;
+  color: #555;
+  font-size: 14px;
+  font-weight: bold;
+}
+
+.navLink:hover {
+  color: #007bff;
+}
+
+.signIn {
+  background: #007bff;
+  color: white !important;
+  padding: 8px 20px;
+  border-radius: 5px;
+  text-transform: uppercase;
+}
+
+.signIn:hover {
+  background: #0056b3;
+}
+
+.signOut {
+  margin-left: 20px;
+  font-weight: bold;
+}
+.signOut:hover {
+  background-color: #ff6600;
+  color: white;
+  border-color: #ff6600;
+}
+
+.languageSwitcher {
+  display: flex;
+  gap: 8px;
+}
+
+.langButton {
+  font-size: 14px;
+  padding: 4px 8px;
+}
+
+
+/* header {
+  background-color: #ffffff;
+  box-shadow: 0 2px 5px rgba(0, 0, 0, 0.1);
+  padding: 10px 20px;
+  display: flex;
+  justify-content: space-around;
+  align-items: center;
+  position: sticky;
+  top: 0;
+  z-index: 100;
+}
+
+
+header nav {
+  display: flex;
+  align-items: center;
+}
+
+header nav a {
+  margin-left: 20px;
+  text-decoration: none;
+  color: #555;
+  font-size: 14px;
+  font-weight: bold;
+}
+
+header nav a.sign__in {
+  background: #007bff;
+  color: white;
+  padding: 8px 50px;
+  border-radius: 5px;
+  text-transform: uppercase;
+}
+
+header nav a:hover {
+  color: #007bff;
+}
+
+header nav a.sign__in:hover {
+  background: #0056b3;
+} */

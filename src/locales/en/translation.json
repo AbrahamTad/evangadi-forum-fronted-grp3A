@@ -1,0 +1,145 @@
+{
+  "answer": {
+    "questionTitle": "QUESTION",
+    "loadingQuestion": "Loading question...",
+    "communityAnswers": "Answer From The Community",
+    "noAnswers": "No answers yet.",
+    "successMessage": "Successfully posted! Redirecting to home page...",
+    "alertMissingAnswer": "Please provide an answer first.",
+    "placeholderAnswer": "Your answer ...",
+    "postButton": "Post Answer"
+  },
+
+  "ask": {
+    "instructionsTitle": "Steps To Write A Good Question.",
+    "step1": "Summarize your problems in a one-line title.",
+    "step2": "Describe your problem in more detail.",
+    "step3": "Describe what you tried and what you expected to happen.",
+    "step4": "Review your question and post it here.",
+    "postQuestionTitle": "Post Your Question",
+    "successMessage": "Successfully posted! Redirecting to home page...",
+    "alertMissingInfo": "Please provide all required information.",
+    "placeholderTitle": "Question title",
+    "placeholderDetails": "Question detail ...",
+    "postButton": "Post Question",
+    "searchPlaceholder": "Search questions...",
+    "myQuestionsTitle": "My Questions",
+    "tableTitle": "Title",
+    "tableDescription": "Description",
+    "tableTimestamp": "Timestamp",
+    "tableActions": "Actions",
+    "editButton": "Edit",
+    "deleteButton": "Delete",
+    "noQuestionsFound": "No questions found."
+  },
+
+  "home": {
+    "username": "Username",
+    "title": "Title",
+    "timestamp": "Timestamp",
+    "actions": "Actions",
+    "askQuestion": "Ask a Question",
+    "welcome": "Welcome",
+    "searchPlaceholder": "Search for questions or by username",
+    "noQuestions": "No questions available.",
+    "edit": "Edit",
+    "delete": "Delete",
+    "deleteSuccess": "Question deleted successfully.",
+    "deleteError": "Failed to delete the question.",
+    "invalidDate": "Invalid Date",
+    "deleteConfirmation": "Are you sure you want to delete this question?",
+    "dateAsked": "Date Asked",
+    "editQuestion": "Edit Question",
+    "errorFetchingQuestion": "Error fetching the question. Please try again later.",
+    "errorUpdatingQuestion": "Error updating the question. Please try again.",
+    "errorDeletingQuestion": "Error deleting the question. Please try again.",
+    "confirmDelete": "Are you sure you want to delete this question?",
+    "deleteQuestion": "Delete Question",
+    "updateQuestion": "Update Question",
+    "successUpdate": "Question updated successfully.",
+    "errorUpdatingTitle": "Error updating the title. Please try again.",
+    "errorUpdatingDescription": "Error updating the description. Please try again.",
+    "errorUpdatingTimestamp": "Error updating the timestamp. Please try again.",
+    "errorUpdatingContent": "Error updating the content. Please try again.",
+    "description": "Description",
+    "confirmUpdate": "Are you sure you want to update this question?",
+    "questionUpdatedSuccessfully": "Question updated successfully.",
+    "yesDelete": "Yes, Delete",
+    "cancel": "Cancel",
+    "postedOn": "Posted on",
+    "sortRecent": "Most Recent",
+    "sortPopular": "Most Popular",
+    "sortByQuestions": "By Questions",
+    "sortByDate": "By Date",
+    "mostRecent": "Most Recent",
+    "mostPopular": "Most Popular",
+    "byQuestions": "By Questions",
+    "byDate": "By Date"
+  },
+
+  "nav": {
+    "home": "Home",
+    "howItWorks": "How it Works",
+    "signIn": "Sign In",
+    "signOut": "Sign Out",
+    "language": "Language"
+  },
+  "languages": {
+    "english": "English",
+    "amharic": "Amharic"
+  },
+
+  "landing": {
+
+     "about": "About",
+    "title": "Evangadi Networks",
+    "description1": "No matter what stage of life you are in, whether you’re just starting elementary school or being promoted to CEO of a Fortune 500 company, you have much to offer to those who are trying to follow in your footsteps.",
+    "description2": "Whether you are willing to share your knowledge or you are just looking to meet mentors of your own, please start by joining the network here.",
+    "howItWorksButton": "HOW IT WORKS"
+           
+  },
+  "register": {
+    "joinNetwork": "Join the network",
+    "alreadyAccount": "Already have an account?",
+    "signIn": "Sign in",
+    "placeholders": {
+      "username": "User name",
+      "firstname": "First name",
+      "lastname": "Last name",
+      "email": "Email address",
+      "password": "Password"
+    },
+    "agree": "I agree to the privacy policy and terms of service.",
+    "submit": "Agree and Join"
+  },
+  "login": {
+    "loginHeading": "Login to your account",
+    "noAccount": "Don’t have an account?",
+    "createAccount": "Create a new account",
+    "placeholders": {
+      "email": "Email address",
+      "password": "Password"
+    },
+    "forgotPassword": "Forgot password?",
+    "loginButton": "Login",
+    "error": "Please provide all required information",
+    "success": "Login successful",
+    "failure": "Login failed. Please check your credentials"
+  },
+  "header": {
+    "language": "Language"
+  },
+
+  "forgotPassword": {
+      "heading": "Reset Your Password",
+      "instructions": "Enter your email address below, and we’ll send you a link to reset your password.",
+      "placeholders": {
+        "email": "Email address"
+      },
+      "resetButton": "Reset Password",
+      "backToLogin": "Back to Login",
+      "error": "Please enter a valid email address.",
+      "success": "Password reset link sent successfully. Check your email.",
+      "failure": "Failed to send reset link. Please try again later."
+    }
+}

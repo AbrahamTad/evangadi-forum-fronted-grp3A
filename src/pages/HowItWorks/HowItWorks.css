@@ -1,0 +1,36 @@
+
+.container{
+
+  padding: left 20px; 
+  margin-left: 30px;
+}
+.how-it-works {
+  padding: 2rem;
+  max-width: 800px;
+  margin: 0 auto;
+  font-family: Arial, sans-serif;
+}
+
+.how-it-works h1 {
+  text-align: center;
+  margin-bottom: 2rem;
+}
+
+.how-it-works .content h2 {
+  color: #333;
+  margin-top: 1.5rem;
+}
+
+.how-it-works .content p {
+  margin-bottom: 1rem;
+  line-height: 1.6;
+}
+
+.how-it-works .content ul {
+  margin-left: 1.5rem;
+  list-style-type: disc;
+}
+
+.how-it-works .content ul li {
+  margin-bottom: 0.5rem;
+}
